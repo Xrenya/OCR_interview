@@ -1,5 +1,5 @@
-### Simple OCR with pre-processing and post-processing.
-# Inteview task
+# Simple OCR with pre-processing and post-processing.
+### Inteview task
 
 The command to run: <br />
 
