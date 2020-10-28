@@ -1,4 +1,6 @@
-# test
+### Simple OCR with pre-processing and post-processing.
+# Inteview task
+
 The command to run: <br />
 
                     1) python OCR.py --input_dir=./test_scan.jpg --output=output.txt --verbose log <br />
@@ -7,3 +9,4 @@ The command to run: <br />
                     
 In case of problme with load['en'], run this command:<br />
 python -m spacy download en
+
